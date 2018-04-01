@@ -1,0 +1,2 @@
+# homework_2_Arithmetic_Generation_Tool
+第二次作业，组队任务，四则运算生成器
